@@ -1,3 +1,3 @@
 # SampleSite
 Did this at cijug
-Did some edits
+Did some better edits
